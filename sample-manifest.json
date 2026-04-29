@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d32c0d95-bca4-484d-ba6a-3174779187f2",
+  "export_job_id": "01e8283d-f44d-4e62-98eb-e572b1ab517e",
   "id_short": 439858,
-  "published_at": "2026-04-22T19:44:00Z",
+  "published_at": "2026-04-29T19:39:46Z",
   "repo_name": "top-50-restaurant-category-dominators-in-kansas-us-sample-439858",
   "sample_asset_name": "beamstation_439858_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/439858/beamstation_439858_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "2132d02351a911debecf6e65b27a77e89eed70c99cadc5c114d2deadfea9db6b",
-  "sample_size_bytes": 39453,
-  "total_records": 61
+  "sample_records": 5,
+  "sample_sha256": "1e43662de7cf0b09d5648c763a0f8cd4df588170cb4328dbbb29e94289e85e62",
+  "sample_size_bytes": 38710,
+  "total_records": 56
 }
