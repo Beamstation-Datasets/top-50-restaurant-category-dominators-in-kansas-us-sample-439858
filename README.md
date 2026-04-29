@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Kansas, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `439858` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 61 records |
-| Free sample size | 6 records (9.84%) |
-| Last export | 2026-04-22T07:10:25.020713+00:00 |
+| Full dataset size | 56 records |
+| Free sample size | 5 records (8.93%) |
+| Last export | 2026-04-29T09:12:59.147878+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-kansas-us-sample-439858/releases/download/sample-latest/beamstation_439858_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
